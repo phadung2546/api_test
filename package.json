@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "dotenv": "^16.3.2",
+    "express": "^4.18.2",
+    "init": "^0.1.2",
+    "mysql2": "^3.7.1",
+    "nodemon": "^3.0.3"
+  },
+  "name": "sqlinjection",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "app": "nodemon app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
